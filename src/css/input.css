@@ -4,6 +4,6 @@
 
 @layer base {
   .section-title {
-    @apply text-xl font-semibold border-b-4 border-red-500 pb-4;
+    @apply text-xl font-semibold border-b-4 border-blue-500 pb-4;
   }
 }
